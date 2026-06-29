@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3ed077/t/v1/juan/1
+seq: 1
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 醫方集解
+  edition:
+    short: t
+  source:
+    repository: tls-texts
+    path: data/tls/KR3ed077.xml
+hash: sha256:5f52bafac4ece70bc378d5485785ca793322e62fe458a06e365f4c1c40d05b15

@@ -1,0 +1,24 @@
+canonical_identifier: bkk:krp/KR3ed077/v1
+canonical_location: https://kanripo.org/bkk/KR3ed077/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 醫方集解
+  identifiers:
+    krp: KR3ed077
+  tags:
+    kr-categories: KR3ed
+    tls-dates: dat04210
+  source:
+    repository: tls-texts
+    path: data/tls/KR3ed077.xml
+  edition:
+    short: bkk
+assets:
+  parts:
+  - seq: 1
+    filename: KR3ed077_001.yaml
+    hash: sha256:5f52bafac4ece70bc378d5485785ca793322e62fe458a06e365f4c1c40d05b15
+table_of_contents: []
+hash: sha256:60a32a7409ce33720bf4b197f75280afe2862f6d8f456f6da5a20f1ee0527cab
